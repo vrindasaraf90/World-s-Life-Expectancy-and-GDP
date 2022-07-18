@@ -1,5 +1,8 @@
 <h2>World's Life Expectancy(health) and GDP(wealth)</h2>
 
+To view complete project:
+https://nbviewer.org/github/vrindasaraf90/World-s-Life-Expectancy-health-and-GDP-wealth-/blob/main/Life%20Expectancy%28health%29%20and%20GDP%28wealth%29%20%20of%20world.ipynb
+
 Per Capita GDP is a financial metric that breaks down a country's economic output per person and is calculated by dividing the GDP of a nation by its population.
 The data For each of 142 countries, provides values for life expectancy, GDP per capita, and population, every five years, from 1952 to 2007.
 
