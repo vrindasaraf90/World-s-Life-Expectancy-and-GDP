@@ -17,8 +17,8 @@ It show us the population in given year of particular country  <br>
 <b>GDPpercap: </b> <br>
 It show us the per capita GDP rate in given year of particular country  <br>
 
-
-<h3>Python Libraries Used:</h3> <br>
+<br>
+<h2>Python Libraries Used:</h2> <br>
 <b> Matplotlib:</b> <br>
 This library is responsible for plotting numerical data. And that’s why it is used in data analysis. It is also an open-source library and plots high-defined figures like pie charts, histograms, scatterplots, graphs, etc. <br>
 <br>
