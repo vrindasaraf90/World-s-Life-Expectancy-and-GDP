@@ -1,4 +1,4 @@
-# World's Life Expectancy(health) and GDP(wealth)
+<h2>World's Life Expectancy(health) and GDP(wealth)</h2>
 
 Per Capita GDP is a financial metric that breaks down a country's economic output per person and is calculated by dividing the GDP of a nation by its population.
 The data For each of 142 countries, provides values for life expectancy, GDP per capita, and population, every five years, from 1952 to 2007.
@@ -6,19 +6,19 @@ The data For each of 142 countries, provides values for life expectancy, GDP per
 
 <b>Country:</b> <br>
 It shows the country name. <br>
-Continent: <br>
+<b>Continent: </b><br>
 It show us the continent of particular country  <br>
-Year:  <br>
+<b>Year:</b>  <br>
 It show us GDP nad life expentancy rate of particular in that country.  <br>
-Lifeexp:  <br>
+<b>Lifeexp: </b> <br>
 It show us the rate of life expectancy in given year of particular country  <br>
-Pop:  <br>
+<b>Pop: </b> <br>
 It show us the population in given year of particular country  <br>
-GDPpercap:  <br>
+<b>GDPpercap: </b> <br>
 It show us the per capita GDP rate in given year of particular country  <br>
 
 
-Python Libraries Used:
+<h3>Python Libraries Used:</h3>
 #### Matplotlib: 
 This library is responsible for plotting numerical data. And that’s why it is used in data analysis. It is also an open-source library and plots high-defined figures like pie charts, histograms, scatterplots, graphs, etc.
 #### Pandas:
