@@ -1,6 +1,6 @@
 <h2>World's Life Expectancy(health) and GDP(wealth)</h2>
 
-To view complete project:
+To view complete project: <br>
 https://nbviewer.org/github/vrindasaraf90/World-s-Life-Expectancy-health-and-GDP-wealth-/blob/main/Life%20Expectancy%28health%29%20and%20GDP%28wealth%29%20%20of%20world.ipynb
 
 Per Capita GDP is a financial metric that breaks down a country's economic output per person and is calculated by dividing the GDP of a nation by its population.
